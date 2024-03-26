@@ -5,7 +5,7 @@
 # [🆁🅾🅱🅸🅽](https://github.com/RobinHirst11)
 ## 𝑷𝑯𝑶𝑻𝑶𝑮𝑹𝑨𝑷𝑯𝑬𝑹, 𝑻𝑬𝑹𝑹𝑰𝑩𝑳𝑬 𝑷𝑹𝑶𝑮𝑹𝑨𝑴𝑴𝑬𝑹
 
-![GitHub Snake Contribution Grid Animation](https://raw.githubusercontent.com/burgil/burgil/output/github-contribution-grid-snake-dark.svg)
+![GitHub Snake Contribution Grid Animation](https://raw.githubusercontent.com/RobinHirst11/RobinHirst11/output/github-contribution-grid-snake-dark.svg)
 
 <p align="center">
   <a href="https://github.com/RobinHirst11?tab=followers">
