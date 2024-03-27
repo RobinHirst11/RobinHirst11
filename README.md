@@ -130,9 +130,3 @@ Step into my realm, where passions intertwine and each pursuit is a symphony of 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=RobinHirst11&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_rank=true&theme=transparent&v=42" />
 </p>
-
----
-
-**RobinHirst11/RobinHirst11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
-
-![RobinHirst11's GitHub Repo](https://github-readme-stats.vercel.app/api/pin/?username=RobinHirst11&repo=RobinHirst11&theme=transparent&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false&v=2)
