@@ -111,7 +111,8 @@ Step into my realm, where passions intertwine and each pursuit is a symphony of 
   - Ubuntu
   - Debian
     
-- ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)![i0S](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white)
+- ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
+- ![i0S](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white)
 
 ---
 
