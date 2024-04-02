@@ -102,7 +102,9 @@ Step into my realm, where passions intertwine and each pursuit is a symphony of 
 ![Edge Extensions](https://img.shields.io/badge/Edge-Extensions-0076D6.svg?style=flat-square&logo=Internet%20Explorer&logoColor=0076D6)
 ![FireFox Extensions](https://img.shields.io/badge/Firefox-Extensions-FF7139.svg?style=flat-square&logo=Firefox%20Browser&logoColor=FF7139)
 
-### Operating Systems
+---
+
+## Operating Systems
 - ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=Windows%20XP&logoColor=white)
   - Windows 10
   - Windows 11
