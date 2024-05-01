@@ -68,7 +68,7 @@ Step into my realm, where passions intertwine and each pursuit is a symphony of 
 ![JSON](https://img.shields.io/badge/JSON-000000.svg?style=flat-square&logo=JSON&logoColor=white)
 ![C](https://img.shields.io/badge/C-000.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-### Cloud Platforms
+### Cloud Platforms:
 ![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-F38020.svg?style=flat-square&logo=cloudflare&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-181717.svg?style=flat-square&logo=github&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=flat-square&logo=Amazon%20AWS&logoColor=white)
@@ -79,25 +79,25 @@ Step into my realm, where passions intertwine and each pursuit is a symphony of 
 ![CloudWays](https://img.shields.io/badge/Cloudways-2C39BD.svg?style=flat-square&logo=cloudways&logoColor=white)
 ![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE.svg?style=flat-square&logo=IBM%20Cloud&logoColor=white)
 
-### Development Environments
+### Development Environments:
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639.svg?style=flat-square&logo=NGINX&logoColor=white)
 ![Repl.it](https://img.shields.io/badge/Replit-667881.svg?style=flat-square&logo=Replit&logoColor=white)
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers-F38020.svg?style=flat-square&logo=cloudflare&logoColor=F38020)
 
-#### Databases:
+### Databases:
 ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=flat-square&logo=MySQL&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![Cloudflare Workers KV](https://img.shields.io/badge/Cloudflare%20Workers-KV-F38020.svg?style=flat-square&logo=cloudflare&logoColor=F38020)
 
-#### ML / DL:
+### ML / DL:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=flat-square&logo=OpenAI&logoColor=white)
 ![Nvidia NeMo](https://img.shields.io/badge/Nvidia%20NeMo-76B900.svg?style=flat-square&logo=nvidia&logoColor=white)
 
-#### Browser Extensions:
+### Browser Extensions:
 ![Chrome Extensions](https://img.shields.io/badge/Chrome-Extensions-red.svg?style=flat-square&logo=Google%20Chrome&logoColor=4285F4)
 ![Edge Extensions](https://img.shields.io/badge/Edge-Extensions-0076D6.svg?style=flat-square&logo=Internet%20Explorer&logoColor=0076D6)
 ![FireFox Extensions](https://img.shields.io/badge/Firefox-Extensions-FF7139.svg?style=flat-square&logo=Firefox%20Browser&logoColor=FF7139)
