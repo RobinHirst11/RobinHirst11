@@ -45,40 +45,62 @@ Step into my realm, where passions intertwine and each pursuit is a symphony of 
 ## 🔥 Expertise & Skills
 
 ### Frameworks & Libraries:
+
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+
 ![Flask](https://img.shields.io/badge/Flask-000000.svg?style=flat-square&logo=Flask&logoColor=white)
+
 ![WordPress](https://img.shields.io/badge/WordPress-21759B.svg?style=flat-square&logo=WordPress&logoColor=white)
+
 ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git&logoColor=white)
+
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)
+
 ![GitLab](https://img.shields.io/badge/Gitlab-black?style=flat-square&logo=gitlab&logoColor=white)
+
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=flat-square&logo=github-actions&logoColor=white)
+
 ![Discord.JS](https://img.shields.io/badge/Discord.js-black?style=flat-square&logo=discord&logoColor=white)
+
 ![Discord.PY](https://img.shields.io/badge/Discord.py-black?style=flat-square&logo=discord&logoColor=white)
+
 ![GraphQL](https://img.shields.io/badge/GraphQL-black?style=flat-square&logo=graphql&logoColor=E10098)
+
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
 
+
 ### Programming Languages:
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/Java-007396.svg?style=flat-square&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120.svg?style=flat-square&logo=C%20Sharp&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE.svg?style=flat-square&logo=PowerShell&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120.svg?style=flat-square&logo=C%20Sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=CSS3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396.svg?style=flat-square&logo=java&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000.svg?style=flat-square&logo=JSON&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=CSS3&logoColor=white)
 ![C](https://img.shields.io/badge/C-000.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![V](https://img.shields.io/badge/V-5D87BF?style=flat-square&logo=V&logoColor=white)
 
 ### Cloud Platforms:
+
 ![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-F38020.svg?style=flat-square&logo=cloudflare&logoColor=white)
+
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-181717.svg?style=flat-square&logo=github&logoColor=white)
+
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=flat-square&logo=Amazon%20AWS&logoColor=white)
+
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=flat-square&logo=Microsoft%20Azure&logoColor=white)
+
 ![Google GCP](https://img.shields.io/badge/GCP-4285F4.svg?style=flat-square&logo=google&logoColor=EA4335)
+
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-c14432.svg?style=flat-square&logo=java&logoColor=white)
+
 ![SiteGround](https://img.shields.io/badge/SiteGround-8CC445.svg?style=flat-square&logo=SciPy&logoColor=white)
+
 ![CloudWays](https://img.shields.io/badge/Cloudways-2C39BD.svg?style=flat-square&logo=cloudways&logoColor=white)
+
 ![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE.svg?style=flat-square&logo=IBM%20Cloud&logoColor=white)
+
 
 ### Development Environments:
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
