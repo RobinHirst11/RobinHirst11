@@ -67,7 +67,7 @@ Step into my realm, where passions intertwine and each pursuit is a symphony of 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=CSS3&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000.svg?style=flat-square&logo=JSON&logoColor=white)
 ![C](https://img.shields.io/badge/C-000.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![V](https://img.shields.io/badge/V-5D87BF)
+![V](https://img.shields.io/badge/V-5D87BF?style=flat-square&logo=V&logoColor=white)
 
 ### Cloud Platforms:
 ![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-F38020.svg?style=flat-square&logo=cloudflare&logoColor=white)
@@ -85,7 +85,7 @@ Step into my realm, where passions intertwine and each pursuit is a symphony of 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639.svg?style=flat-square&logo=NGINX&logoColor=white)
 ![Repl.it](https://img.shields.io/badge/Replit-667881.svg?style=flat-square&logo=Replit&logoColor=white)
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers-F38020.svg?style=flat-square&logo=cloudflare&logoColor=F38020)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020.svg?style=flat-square&logo=cloudflare&logoColor=F38020)
 
 ### Databases:
 ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=flat-square&logo=MySQL&logoColor=white)
