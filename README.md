@@ -78,7 +78,6 @@ Step into my realm, where passions intertwine and each pursuit is a symphony of 
 ![JSON](https://img.shields.io/badge/JSON-000000.svg?style=flat-square&logo=JSON&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=CSS3&logoColor=white)
 ![C](https://img.shields.io/badge/C-000.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![V](https://img.shields.io/badge/V-5D87BF?style=flat-square&logo=V&logoColor=white)
 
 ### Development Environments:
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020.svg?style=flat-square&logo=cloudflare&logoColor=F38020)
