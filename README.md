@@ -118,6 +118,12 @@ Step into my realm, where passions intertwine and each pursuit is a symphony of 
 
 ---
 
+# Feel Free to Reach Out on Discord
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/744625722714357800)](https://discord.com/users/1020384453694062642)
+
+---
+
 # Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RobinHirst11&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
