@@ -122,21 +122,3 @@ Step into my realm, where passions intertwine and each pursuit is a symphony of 
 # Feel Free to Reach Out on Discord
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1020384453694062642)](https://discord.com/users/1020384453694062642)
-
----
-
-# Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=RobinHirst11&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-# 😎 GitHub Stats
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RobinHirst11&hide_border=true&theme=transparent&v=42" />
-</p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobinHirst11&hide_border=true&layout=compact&langs_count=22&theme=transparent&hide=html&v=42" />
-</p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=RobinHirst11&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_rank=true&theme=transparent&v=42" />
-</p>
