@@ -120,7 +120,7 @@ Step into my realm, where passions intertwine and each pursuit is a symphony of 
 
 # Feel Free to Reach Out on Discord
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1020384453694062642)](https://discord.com/users/1020384453694062642)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1020384453694062642)](https://discord.com/users/1020384453694062642
 
 ---
 
