@@ -19,14 +19,6 @@
   </a>
 </p>
 
----
-## You are the:
-
-<p align = "center"><img src = "https://count.getloli.com/get/@:robinhirst11?theme=rule34" </p>
-
-# viewer :D
----
-
 ### 👋 Greetings, I'm Robin.
 
 Step into my realm, where passions intertwine and each pursuit is a symphony of discovery. Allow me to paint a picture of my eclectic interests:
