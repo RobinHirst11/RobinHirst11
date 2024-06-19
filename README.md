@@ -107,7 +107,8 @@ Step into my realm, where passions intertwine and each pursuit is a symphony of 
 - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   - Ubuntu
   - Debian
-    
+  - Arch
+
 - ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
 - ![i0S](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white)
 
