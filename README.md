@@ -25,9 +25,7 @@ Feel Free to Reach Out on Discord
 </p>
 
 ---
-
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1wta6u3oyolbk27smx9oc18xd&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=1wta6u3oyolbk27smx9oc18xd&redirect=true)
-
 ---
 
 ### 👋 Greetings, I'm Robin.
