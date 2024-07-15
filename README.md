@@ -7,9 +7,9 @@
 
 ![GitHub Snake Contribution Grid Animation](https://raw.githubusercontent.com/RobinHirst11/RobinHirst11/output/github-contribution-grid-snake-dark.svg)
 
-# Feel Free to Reach Out on Discord
+Feel Free to Reach Out on Discord
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1020384453694062642)](https://discord.com/users/1020384453694062642)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1020384453694062642)](https://discord.com/users/1208703097073831967)
 
 ---
 
