@@ -9,7 +9,7 @@
 
 Feel Free to Reach Out on Discord
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1208703097073831967)](https://discord.com/users/1208703097073831967)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1262496298180022272)](https://discord.com/users/1262496298180022272)
 ---
 
 <p align="center">
