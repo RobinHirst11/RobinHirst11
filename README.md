@@ -7,6 +7,12 @@
 
 ![GitHub Snake Contribution Grid Animation](https://raw.githubusercontent.com/RobinHirst11/RobinHirst11/output/github-contribution-grid-snake-dark.svg)
 
+# Feel Free to Reach Out on Discord
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1020384453694062642)](https://discord.com/users/1020384453694062642)
+
+---
+
 <p align="center">
   <a href="https://github.com/RobinHirst11?tab=followers">
     <img alt="Followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/RobinHirst11?color=236ad3&labelColor=1155ba&style=flat-square&label=Follow&logo=person-add&logoColor=white&v=42"/>
@@ -111,9 +117,3 @@ Step into my realm, where passions intertwine and each pursuit is a symphony of 
 
 - ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
 - ![i0S](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white)
-
----
-
-# Feel Free to Reach Out on Discord
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/1020384453694062642)](https://discord.com/users/1020384453694062642)
