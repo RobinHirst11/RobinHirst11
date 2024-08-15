@@ -11,20 +11,6 @@ Feel Free to Reach Out on Discord
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1262496298180022272)](https://discord.com/users/1262496298180022272)
 ---
-
-<p align="center">
-  <a href="https://github.com/RobinHirst11?tab=followers">
-    <img alt="Followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/RobinHirst11?color=236ad3&labelColor=1155ba&style=flat-square&label=Follow&logo=person-add&logoColor=white&v=42"/>
-  </a>
-  <a href="https://github.com/RobinHirst11?tab=repositories&sort=stargazers">
-    <img alt="Total Stars" title="Total Stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=flat-square&label=Stars&color=55960c&labelColor=488207&query=$.stars&url=https://api.github-star-counter.workers.dev/user/RobinHirst11&v=42"/>
-  </a>
-  <a href="https://github.com/RobinHirst11?tab=repositories&sort=stargazers">
-    <img alt="Total Forks" title="Total Forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=flat-square&color=ff0013&labelColor=ae1206&label=Forks&query=$.forks&url=https://api.github-star-counter.workers.dev/user/RobinHirst11&v=42"/>
-  </a>
-</p>
-
----
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1wta6u3oyolbk27smx9oc18xd&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=1wta6u3oyolbk27smx9oc18xd&redirect=true)
 ---
 
