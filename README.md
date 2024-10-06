@@ -7,7 +7,7 @@
 
 ![GitHub Snake Contribution Grid Animation](https://raw.githubusercontent.com/RobinHirst11/RobinHirst11/output/github-contribution-grid-snake-dark.svg)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1262496298180022272)](https://discord.com/users/1262496298180022272)[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1wta6u3oyolbk27smx9oc18xd&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=1wta6u3oyolbk27smx9oc18xd&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1wta6u3oyolbk27smx9oc18xd&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=1wta6u3oyolbk27smx9oc18xd&redirect=true)
 
 ### 👋 Greetings, I'm Robin.
 
