@@ -76,8 +76,6 @@ Welcome to my world. Here are my interests:
 ### Databases:
 ![Cloudflare Workers KV](https://img.shields.io/badge/Cloudflare%20Workers-KV-F38020.svg?style=flat-square&logo=cloudflare&logoColor=F38020)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=flat-square&logo=MySQL&logoColor=white)
 
 ### AI, ML, NN, DL:
 ![IBM Watson](https://img.shields.io/badge/IBM%20Watson-BE95FF.svg?style=flat-square&logo=IBM%20Watson&logoColor=white)
