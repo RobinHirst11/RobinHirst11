@@ -7,8 +7,6 @@
 
 ![GitHub Snake Contribution Grid Animation](https://raw.githubusercontent.com/RobinHirst11/RobinHirst11/output/github-contribution-grid-snake-dark.svg)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1wta6u3oyolbk27smx9oc18xd&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=1wta6u3oyolbk27smx9oc18xd&redirect=true)
-
 ### 👋 Greetings, I'm Robin.
 
 Welcome to my world. Here are my interests:
